@@ -727,9 +727,9 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: ae32790775f04c34694a29308f5ec96d, type: 3}
   m_InferenceDevice: 0
-  m_BehaviorType: 0
+  m_BehaviorType: 2
   m_BehaviorName: My Behavior
   TeamId: 0
   m_UseChildSensors: 1
@@ -751,7 +751,7 @@ MonoBehaviour:
     maxStep: 0
   hasUpgradedFromAgentParameters: 1
   MaxStep: 0
-  target: {fileID: 6638681127716299691}
+  target: {fileID: 6638681126422678649}
   backgroundSpriteRenderer: {fileID: 6638681126758028325}
 --- !u!61 &6638681127716299686
 BoxCollider2D:
